@@ -6,3 +6,6 @@
 html {
   font-family: 'Poppins', sans-serif;
 }
+body {
+  background: linear-gradient(260deg, #dbdbdb 0%, #f0f0f0 76.53%) fixed;
+}
